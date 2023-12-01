@@ -1,0 +1,15 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "First project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Henrique Gois",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.6.0",
+    "cypress-file-upload": "^5.0.8"
+  }
+}

@@ -1,0 +1,51 @@
+{
+    "signup": {
+        "name": "Henrique Gois",
+        "cpf": "51102090821",
+        "email": "Henrique_Gois@gmail.com",
+        "whats": "11999999999",
+        "address": {
+            "postalcode": "06147005",
+            "street": "Rua Oito de Março",
+            "number": "120",
+            "details": "AP 1",
+            "district": "Santa Maria",
+            "city_uf": "Osasco/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }, 
+    "cpf_inv": {
+        "name": "Pedro Silva",
+        "cpf": "x51102090821A",
+        "email": "Pedro@gmail.com",
+        "whats": "11999999999",
+        "address": {
+            "postalcode": "06147005",
+            "street": "Rua Oito de Março",
+            "number": "120",
+            "details": "AP 1",
+            "district": "Santa Maria",
+            "city_uf": "Osasco/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+
+    },
+    "email_inv": {
+        "name": "João Sousa",
+        "cpf": "51102090821",
+        "email": "SousaJoao.com",
+        "whats": "11999999999",
+        "address": {
+            "postalcode": "06147005",
+            "street": "Rua Oito de Março",
+            "number": "120",
+            "details": "AP 1",
+            "district": "Santa Maria",
+            "city_uf": "Osasco/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
